@@ -9,8 +9,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const int vertpad 	    = 0; 	/* vertical padding of the bar */
 static const int sidepad 	    = 0; 	/* horizontal padding of the bar */
-static const char *fonts[]          = { "Fira Code Nerd Font Mono:size=10" };
-static const char dmenufont[]       = "Fira Code Nerd Font Mono:size=10";
+static const char *fonts[]          = { "IBM Plex Mono:pixelsize=14" };
+static const char dmenufont[]       = "IBM Plex Mono:pixelsize=14";
 static const char col_white[]	    = "#a89984";
 static const char col_black[]	    = "#665c54";
 static const char col_gray1[]       = "#262626";
